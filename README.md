@@ -1,10 +1,14 @@
 # 💻 Luiz
 
  <div>
-   <a href="https://github.com/Luiz-BSanto">
-   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luiz-BSantos&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
-    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-BSantos&theme=radical"/>
-    
+  
+ <a href="https://github.com/Luiz-BSantos">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Luiz-BSantos&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"/>
+</a>
+<a href="https://github.com/Luiz-BSantos">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-BSantos&theme=radical&layout=compact&locale=pt-br"/>
+</a>
+  
 </div>
     
 <div style="display: inline_block"><br>
