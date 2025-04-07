@@ -1,5 +1,11 @@
 # 💻 Luiz
 
+🎓 Estudante de Ciência da Computação.
+💻 Foco principal: desenvolvimento back-end.
+🐧 Nas horas vagas, me aprofundo em Linux e cibersegurança, áreas que também me despertam grande interesse.
+🔧 Tenho paixão por entender como as coisas funcionam por trás dos bastidores — desde servidores até redes e infraestrutura.
+🚀 Buscando sempre evoluir e construir soluções robustas e eficientes no universo do back-end.
+
  <div>
   
  <a href="https://github.com/Luiz-BSantos">
