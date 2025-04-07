@@ -1,10 +1,10 @@
 # 💻 Luiz
 
-🎓 Estudante de Ciência da Computação.
-💻 Foco principal: desenvolvimento back-end.
-🐧 Nas horas vagas, me aprofundo em Linux e cibersegurança, áreas que também me despertam grande interesse.
-🔧 Tenho paixão por entender como as coisas funcionam por trás dos bastidores — desde servidores até redes e infraestrutura.
-🚀 Buscando sempre evoluir e construir soluções robustas e eficientes no universo do back-end.
+<br>🎓 Estudante de Ciência da Computação.<br>
+<br>💻 Foco principal: desenvolvimento back-end.<br>
+<br>🐧 Nas horas vagas, me aprofundo em Linux e cibersegurança, áreas que também me despertam grande interesse.<br>
+<br>🔧 Tenho paixão por entender como as coisas funcionam por trás dos bastidores — desde servidores até redes e infraestrutura.<br>
+<br>🚀 Buscando sempre evoluir e construir soluções robustas e eficientes no universo do back-end.<br>
 
  <div>
   
